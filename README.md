@@ -1,2 +1,2 @@
-# GitHub_Intro_Nov01
-Workshop repository for the Github sessions
+This is our workshop repository
+It is super cool :)
